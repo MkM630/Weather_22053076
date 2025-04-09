@@ -105,13 +105,3 @@ Weather App is live and ready for you to explore! Visit [WeatherApp](https://sub
 This project is distributed under MIT License read `LICENSE` file for more details .
 
 
-## Credits
-
-[Openweathermap API](https://openweathermap.org/api)
-
-[Fontawesome Icons](https://fontawesome.com/v6/icons)
-
-
-If you like the project 🌟 the repository.
-
-Thank you with ❤ Subramanya KS
